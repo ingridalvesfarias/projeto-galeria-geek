@@ -26,3 +26,4 @@ A "Galeria Geek" é uma página web que exibe cards com personagens icônicos de
 
 Você pode visualizar o projeto online através do link abaixo:
 
+https://ingridalvesfarias.github.io/projeto-galeria-geek/
